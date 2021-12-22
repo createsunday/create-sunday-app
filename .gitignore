@@ -1,0 +1,14 @@
+# build
+dist 
+npm
+
+# misc
+.DS_Store
+*.pem
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
